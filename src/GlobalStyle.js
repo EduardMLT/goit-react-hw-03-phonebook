@@ -7,7 +7,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     margin: auto;
-    padding: 30px;
+    padding: 5px;
     background-color: #fff;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
